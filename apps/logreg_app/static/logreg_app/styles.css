@@ -1,0 +1,34 @@
+#wrapper {
+    width: 980px;
+    margin: 0 auto;
+    color: white;
+}
+#wrapper form, h1, p {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.btn {
+    width: 280px;
+    margin-top: 10px;
+    background-color: rgb(4, 209, 236);
+}
+
+#registration {
+    width: 400px;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 92px;
+    background-color: rgb(60, 92, 161);
+    border-radius: 5px;
+}
+
+#login {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    background-color: rgb(60, 92, 161);
+    border-radius: 5px;
+}
